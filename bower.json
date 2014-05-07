@@ -1,6 +1,6 @@
 {
   "name": "angles",
-  "version": "1.0",
+  "version": "2.0",
   "authors": [
     "Lindsay Silver"
   ],
@@ -15,7 +15,7 @@
     "libs/Chart.js"
   ],
   "dependencies": {
-    "angular": "~1.2.0",
+    "angular": "~1.2.10",
     "nnnick-chartjs": "*"
   }
 }
